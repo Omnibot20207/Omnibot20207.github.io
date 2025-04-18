@@ -1,0 +1,45 @@
+h1 {
+  padding-left: 50px;
+  color: darkred;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.exampleslist {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-size: 25px;
+  margin-left: 50px;
+  padding-right: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.occasionslist {  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: white;
+}
+footer {
+  color: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  margin-left: 50px;
+  font-size: 50px;
+}
+.contact {
+  font-size: 25px;
+}
+.infobc {
+  background-color: darkviolet;
+}
+.conbc {
+  background-color: darkgreen;
+}
+main{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
